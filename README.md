@@ -8,7 +8,7 @@ There are two deliverables for this individual assignment. Please submit the fol
 ## Roman Numerals
 Roman numerals were a way of writing numbers in ancient Rome. Letters are used to represent fixed integer values and can be combined to represent other numbers. They are commonly found on clock faces and old buildings. For more information about Roman numerals, [see the Wikipedia article](https://en.wikipedia.org/wiki/Roman_numerals).
 
-The file roman_numerals.py contains code that takes as input from the user two Roman numerals, converts them into a numeric value, then compares them to determine which one is larger. At least, that’s what the program is *supposed* to do. Instead, the file you are given has several bugs! Find and fix all of them. Keep the same filename for submission to Gradescope. When debugging, remember DRIFT: discover, reproduce, isolate, fix, and test. It's a good idea to come up with several test cases to test your code **before** you start making changes.
+The file [roman_numerals.py](roman_numerals.py) contains code that takes as input from the user two Roman numerals, converts them into a numeric value, then compares them to determine which one is larger. At least, that’s what the program is *supposed* to do. Instead, the file you are given has several bugs! Find and fix all of them. Keep the same filename for submission to Gradescope. When debugging, remember DRIFT: discover, reproduce, isolate, fix, and test. It's a good idea to come up with several test cases to test your code **before** you start making changes.
 
 Example output (using inputs `MCCXXXIX` and `MCMXVIII`):
 ```
